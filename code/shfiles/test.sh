@@ -3,6 +3,6 @@
 #SBATCH --ntasks=1
 #SBATCH --time=23:55:00
 #SBATCH --mem=20gb
-#SBATCH -A r00257
+#SBATCH -A r00581
 
 R CMD BATCH testFile.R
